@@ -1,6 +1,7 @@
 # FSCJ-Full-Stack-Development
-codecademy exam
-FSCJ Full-Stack Development
+# codecademy exam
+#   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdhHERtWDh9qzxI775F0SFiJTpfFSSdZpdskNxzQn4Ug&s" alt="FSCJ Full-Stack Development" width="40" height="40"> FSCJ Full-Stack Development
+
 In the code editor, we have provided you with some incomplete code that creates an Express server and defines callback functions for RESTful API endpoints. Your task is to complete the code in app.js. You will need to:
 
 Import the necessary modules
