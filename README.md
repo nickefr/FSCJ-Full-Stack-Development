@@ -38,8 +38,7 @@ Find a movie by its ID and delete it
   process.env.PORT = process.env.PORT || 4001;
   process.env.PROGRAM_NAME = process.env.PROGRAM_NAME || 'Movie App';
 
-  const PORT = process.env.PORT;
-  const PROGRAM_NAME = process.env.PROGRAM_NAME;
+
 
   app.use(bodyParser.json());
 
